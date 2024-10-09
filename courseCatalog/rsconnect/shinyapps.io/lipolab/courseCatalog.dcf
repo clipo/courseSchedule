@@ -1,0 +1,12 @@
+name: courseCatalog
+title: courseCatalog
+username: lipolab
+account: lipolab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12967515
+bundleId: 9202404
+url: https://lipolab.shinyapps.io/courseCatalog/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
